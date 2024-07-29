@@ -1,0 +1,20 @@
+{
+  "name": "String Manipulation",
+  "version": "1.0.0", 
+  "description": "Tools for common string operations, like padding, trimming, case conversions, etc.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Artbelt/String-Manipulation"
+  },
+  "keywords": [
+    "", 
+    "",
+    ""
+  ],
+  "author": "ArtB",
+  "license": "MIT"
+}
